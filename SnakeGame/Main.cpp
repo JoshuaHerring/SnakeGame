@@ -196,10 +196,10 @@ int main() {
 		// Draws the Score keeper at the top of the screen with a dynamic score
 		DrawText(TextFormat("Score: %i", Score), 0, 0, 50, WHITE);
 
-		//Draws the food
-		food.draw();
 		//draws the snake
 		snake.draw();
+		//Draws the food
+		food.draw();
 		//moves the snake
 		snake.move();
 
