@@ -23,6 +23,15 @@ int deathSounds = 1;
 // An int that is displayed at the top of the screen to keep track of how many apples have been eaten
 int Score = 0;
 
+
+
+
+
+
+
+
+
+
 /*The Snake class that that has the methods
 draw() to draw the snake to the screen
 addSegment() that will extend the length of the snake every time it is called
@@ -133,6 +142,17 @@ public:
 	}
 };
 
+
+
+
+
+
+
+
+
+
+
+
 /*The Food class that has the methods
 setRandCoords() which moves the food to a random spot on the grid
 draw() which draws the food to the screen
@@ -168,7 +188,19 @@ public:
 };
 
 
-// Initializes the game and runs the main game loop
+
+
+
+
+
+
+
+
+
+
+/*Initializes the game (window, audio device) and it loads all the assets (sounds, snake, food)
+then it runs the main game loop)
+*/
 int main() {
 
 	//Sets the spped of the game
@@ -246,7 +278,3 @@ int main() {
 	//The End
 	return 0;
 }
-
-
-
-
