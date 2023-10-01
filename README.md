@@ -1,5 +1,5 @@
 # Overview
-This snake game is a project that I made in order to learn the C++ language. To run this game download/clone the code and Download the Raylib Library to your environment. Then simply run it in any environment that can run C++.
+This snake game is a project that I made in order to learn the C++ language. **To run this game** download/clone the code and Download the Raylib Library to your environment. Then simply run it in any environment that can run C++.
 
 ## Description
 This software is a basic snake game. You control a snake using the wasd keys to move around a 2d plane.
