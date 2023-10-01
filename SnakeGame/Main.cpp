@@ -26,12 +26,6 @@ int Score = 0;
 
 
 
-
-
-
-
-
-
 /*The Snake class that that has the methods
 draw() to draw the snake to the screen
 addSegment() that will extend the length of the snake every time it is called
@@ -145,14 +139,6 @@ public:
 
 
 
-
-
-
-
-
-
-
-
 /*The Food class that has the methods
 setRandCoords() which moves the food to a random spot on the grid
 draw() which draws the food to the screen
@@ -186,13 +172,6 @@ public:
 		DrawRectangle((int)coords.x * cellSize, (int)coords.y * cellSize, cellSize, cellSize, RED);
 	}
 };
-
-
-
-
-
-
-
 
 
 
