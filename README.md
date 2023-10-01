@@ -25,7 +25,7 @@ I wrote this snake game to learn and understand C++. This was my first project i
 ## Video Demo
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Loom recording of me demonstrating and explaining my code](https://www.loom.com/share/9f56bd6484524afbb2ae6d89ba603032?sid=c7b8d728-c8f0-41f2-a2eb-7176282cbef0)
+[Video Demonstration of the Code and Game by Josh Herring](https://youtu.be/EH9_RCE5gso)
 
 # Development Environment
 
