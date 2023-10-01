@@ -52,3 +52,5 @@ I also used the Raylib Library which handled a lot of the boilerplate for the gr
 - Seperate the classes into individual files.
 - Fix the bug where if you hit two buttons at the same time then you can turn immediatley backwards ending the game.
 - Add different difficulties and power-ups/bad-guys into the game.
+- Turn down death sound
+- Add main menu screen
